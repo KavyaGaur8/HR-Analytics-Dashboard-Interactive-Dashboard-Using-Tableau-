@@ -19,12 +19,8 @@ To develop an interactive HR Analytics Dashboard that provides insights into emp
 ## Dashboard Interaction
 <a href="https://github.com/KavyaGaur8/HR-Analytics-Dashboard-Interactive-Dashboard-Using-Tableau-/blob/main/Dashboard_Image.png">View Dashboard</a>
 ## Process
-1. Data Collection
-Collected and imported HR employee data from the source dataset into Tableau for analysis and visualization.
-2. Data Cleaning & Preparation
-Processed the dataset by handling missing values, validating data types, creating calculated fields, and preparing KPIs such as Attrition Rate and Active Employees.
-3. Data Analysis
-Analyzed employee attrition patterns across departments, age groups, gender, education fields, and job satisfaction levels to identify workforce trends.
-4. Dashboard Development & Insights
-Designed an interactive Tableau dashboard to visualize key HR metrics and generate actionable insights for workforce planning and employee retention strategies.
+1. Data Collection: Collected and imported HR employee data from the source dataset into Tableau for analysis and visualization.
+2. Data Cleaning & Preparation: Processed the dataset by handling missing values, validating data types, creating calculated fields, and preparing KPIs such as Attrition Rate and Active Employees.
+3. Data Analysis: Analyzed employee attrition patterns across departments, age groups, gender, education fields, and job satisfaction levels to identify workforce trends.
+4. Dashboard Development & Insights: Designed an interactive Tableau dashboard to visualize key HR metrics and generate actionable insights for workforce planning and employee retention strategies.
 
